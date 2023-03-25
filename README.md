@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Brett  👋
 
-### 🔺 I'm a full-stack software engineer based in the Raleigh area
+### 🔺 I'm a software engineer based in the Raleigh area
 ### 🔭 I’m currently working on ReacType, a full-stack React prototyping tool
 ### 🌱 I’m looking to collaborate on interesting open source projects!
 ### ⚡ Fun fact:  I lived in Peru for several years where I learned Quechua and developed a love for ceviche
